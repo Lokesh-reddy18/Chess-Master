@@ -80,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center"><i>Chess Master — Play, learn, and connect through chess!</i></p>
-<p align="center"><b>Made by Kolli Lokesh Reddy</b></p>
+<p align="center"><b>Made by Kolli Lokesh Reddy & Tulasi Mahesh Babu</b></p>
